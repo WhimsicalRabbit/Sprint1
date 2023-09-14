@@ -9,8 +9,5 @@
   },
   "keywords": [],
   "author": "Engels Patiarroyo",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "29.6.4"
-  }
+  "license": "ISC"
 }
