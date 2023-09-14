@@ -11,10 +11,6 @@
   "author": "Engels Patiarroyo",
   "license": "ISC",
   "devDependencies": {
-    "jest": "29.6.4",
-    "standard": "17.1.0"
-  },
-  "eslintConfig": {
-    "extends": "./node-modules/standard/esLintrc.json"
+    "jest": "29.6.4"
   }
 }
