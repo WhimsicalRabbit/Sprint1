@@ -105,9 +105,9 @@ function show() {
     tasks = "\n Your tasks are: \n";
     completeTasks = "\n You haven't completed any tasks yet";
 
-    for (let i = 0; i < ToDo.length; i++) {
+ for (let i = 0; i < ToDo.length; i++) {
       tasks += i + 1 + "º. " + ToDo[i] + " \n";
-    }
+    } 
 
     message = tasks + completeTasks;
   } else {
