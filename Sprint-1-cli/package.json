@@ -1,0 +1,15 @@
+{
+  "name": "sprint-1-cli",
+  "version": "1.0.0",
+  "description": "cli for sprint 1",
+  "main": "./bin/index.js",
+  "bin": {
+    "sprint1": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "Engels Patiarroyo",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "17.7.2"
+  }
+}
